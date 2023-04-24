@@ -30,8 +30,3 @@ Branche features = Chaque fonctionnalité est créée sur cette branche. Lorsque
 ## Explicatif du fonctionnement DevOps pour ce projet :
 
 Voir schéma __Schéma - fonctionnement DevOps__
-
-Test Workflow
-
-
-
