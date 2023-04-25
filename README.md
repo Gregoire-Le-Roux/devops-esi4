@@ -1,4 +1,4 @@
-# devops-esi4
+# DevOps-ESI4
 
 ## Introduction du projet
 
