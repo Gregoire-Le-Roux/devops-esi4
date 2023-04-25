@@ -2,9 +2,10 @@
 
 ## Introduction du projet
 
-Sujet : Site vitrine de chaussure en REACT (Vite + TS) \
+Sujet : ToDoList en REACT (Vite + TS) \
 Déploiement continu : Vercel => https://devops-esi4.vercel.app/ \
-Gestion des tests + tester le produit dans un environnement prod dupliqué : Github Actions 
+Tests unitaires : Vitest \
+Gestion des tests dans un environnement prod dupliqué : Github Actions 
 
 12 étapes à réaliser sur le projet : 
 
