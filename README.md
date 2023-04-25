@@ -5,6 +5,7 @@
 Sujet : ToDoList en REACT (Vite + TS) \
 Déploiement continu : Vercel => https://devops-esi4.vercel.app/ \
 Tests unitaires : Vitest \
+Tests des composants React (en simulant un DOM) : Testing-library/react 
 Gestion des tests dans un environnement prod dupliqué : Github Actions 
 
 12 étapes à réaliser sur le projet : 
