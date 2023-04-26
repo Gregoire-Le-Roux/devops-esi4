@@ -40,7 +40,7 @@ function deleteToDoItem(index:number) {
     <div>
       <h1>ToDoList</h1>
 
-      <p>Ajouter dans ma ToDoList <input value={texte} onChange={(e)=> setTexte(e.target.value)}type="text"/></p>
+      <p>Ajouter dans ma ToDoList <input value={texte} onChange={(e)=> setTexte(e.target.value)} aria-label='texte-input' type="text"/></p>
       <button onClick={AddToDoList}>Valider</button>
       <button onClick={clearToDoList}>Supprimer tout</button>
       
