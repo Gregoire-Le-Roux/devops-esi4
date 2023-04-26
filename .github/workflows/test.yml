@@ -1,6 +1,6 @@
 name: Runs All Unit tests
 
-on: [push, pull_request]
+on: push
 
 jobs:
   build:
