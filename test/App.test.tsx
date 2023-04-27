@@ -20,7 +20,7 @@ describe("Todolist test", () => {
         expect(screen.getByText("ToDoList")).toBeDefined()
     })
 
-    // Input, Validate and Delete element test
+    // Input, Validate and Delete element tests
     test('should add text in input then add it to todolist and finally delete it', async () => { 
         // Add text in input
         const inputTexte = getInputTexte()
