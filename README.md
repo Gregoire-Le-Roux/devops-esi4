@@ -3,7 +3,7 @@
 ## Introduction du projet
 
 Sujet : ToDoList en REACT (Vite + TS) \
-La ToDoList porpose d'ajouter des lignes à réaliser. Il est possible de supprimer chaque élément individuellement ou de tous les supprimer à l'aide de boutons. \
+La ToDoList propose d'ajouter des lignes à réaliser. Il est possible de supprimer chaque élément individuellement ou de tous les supprimer à l'aide de boutons. \
 Déploiement continu : Vercel => https://devops-esi4.vercel.app/ \
 Tests unitaires : Vitest \
 Tests des composants React (en simulant un DOM) : Testing-library/react 
